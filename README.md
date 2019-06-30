@@ -1,6 +1,6 @@
 # 7
-Ajax与Comet
-es6部分知识块总结：
+* Ajax与Comet
+* es6部分知识块总结：
 let命令、块级作用域、const命令
 顶层对象的属性
 解构赋值
